@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.example.client.mixin;
 
 import com.example.ExampleModClient;
 import net.minecraft.client.Keyboard;
